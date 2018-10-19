@@ -1,1 +1,1 @@
-# Tensor-matched-subspace-detection
+# Tensor-subspace-detection
